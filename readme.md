@@ -1,5 +1,8 @@
-# Deep Learning Unet Model
-  Uma modelo de rede neural convolucional para segmentções de imagens rápidas e precisas. Sendo bastante 
+# Deep Learning - Unet Model
+  > Python 3.0
+  > Keras
+  
+  Uma modelo de rede neural convolucional para segmentações de imagens rápidas e precisas. Sendo bastante 
   utilizadas tratando-se de imagens medicinais. 
   
   Modelo composto de duas partes, a primeira um processo de downsampling e então um processo de upsampling 
