@@ -1,6 +1,5 @@
 # Deep Learning - Unet Model
-  > Python 3.0
-  > Keras
+  > Python 3.0 and Keras
   
   Uma modelo de rede neural convolucional para segmentações de imagens rápidas e precisas. Sendo bastante 
   utilizadas tratando-se de imagens medicinais. 
