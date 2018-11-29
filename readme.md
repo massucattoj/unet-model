@@ -10,6 +10,10 @@
    <img src="u-net-architecture.png" />
 </p>
 
+  Exemplo de arquitetura com uma imagem de 32x32 pixels na resolução mais baixa. Aonde cada caixa azul 
+  corresponde ao mapa de caracteristicas. O numero de canais é denotado no topo da caixa. O tamanho dos
+  eixos x e y são mostrados no canto inferior esquerdo. Caixas brancas representam copias do mapa de
+  caracteristicas e as setas os diferentes tipos de operação.
+
 ### Material
 - More about Deep Learning Unet could be visualize in this paper: [https://arxiv.org/pdf/1505.04597.pdf]
-
