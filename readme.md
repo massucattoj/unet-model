@@ -7,10 +7,9 @@
 
 ## Model Architecture
 <p align="center">
-![](u-net-architecture.png)
+   <img src="u-net-architecture.png" />
 </p>
 
 ### Material
 - More about Deep Learning Unet could be visualize in this paper: [https://arxiv.org/pdf/1505.04597.pdf]
-
 
